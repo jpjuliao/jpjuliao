@@ -1,5 +1,3 @@
-### Wordpress Developer & Javascript Specialist
+I'm a self-taught Software Developer with more than a decade of professional experience managing projects in different work environments and tech stacks. My roles have included the planning, coding, deploying and supporting software following state of the art QA practices for renowned organizations around the world like Toyota, UCLA Health, Banco Santander, Ncarb and more.
 
-Since 2012 I have built and maintained countless websites and apps using cutting-edge technologies for clients all around the globe. 
-
-I have worked in large IT companies where I have been involved on many different type of projects: from simple Blogs or E-commerce sites to complex apps with bespoke business logic, always following best practices agile methodologies and accessibility guidelines.
+My complete skillset of programing languages, databases and methodologies allow me to provide expert technical support for sites built with Wordpress, React, Next, Vue, Shopify, Drupal and Django.
